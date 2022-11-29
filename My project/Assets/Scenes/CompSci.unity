@@ -1150,7 +1150,7 @@ GameObject:
   - component: {fileID: 1123408736}
   - component: {fileID: 1123408735}
   m_Layer: 0
-  m_Name: Simple Interactable (2)
+  m_Name: Simple Interactable Purple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1247,7 +1247,7 @@ GameObject:
   - component: {fileID: 1170828302}
   - component: {fileID: 1170828301}
   m_Layer: 0
-  m_Name: Simple Interactable (3)
+  m_Name: Simple Interactable Red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2034,7 +2034,7 @@ GameObject:
   - component: {fileID: 1563861047}
   - component: {fileID: 1563861046}
   m_Layer: 0
-  m_Name: Simple Interactable (1)
+  m_Name: Simple Interactable Blue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
