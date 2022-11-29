@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 public class AnimateHandOnInput : MonoBehaviour
 {
 
-    public InputActionProperty pinchAnimationAction;
+   public InputActionProperty pinchAnimationAction;
     public InputActionProperty gripAnimationAction;
     public Animator  handAnimator;
 
