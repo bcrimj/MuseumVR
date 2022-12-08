@@ -1,0 +1,34 @@
+{
+    "name": "CustomInputActions",
+    "maps": [
+        {
+            "name": "Menu",
+            "id": "8656b766-a847-43cf-a2b9-09ab52067f6a",
+            "actions": [
+                {
+                    "name": "MenuPressed",
+                    "type": "Button",
+                    "id": "84c409fc-1b04-40c0-91e0-023fdd3f58d3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "bc52a067-9cf1-46b9-9d69-56e4e1146f09",
+                    "path": "<WMRSpatialController>/touchpadClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
