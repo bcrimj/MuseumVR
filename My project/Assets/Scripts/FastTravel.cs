@@ -40,4 +40,25 @@ public class FastTravel : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+
+    public void SwitchScene0()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void SwitchScene2()
+    {
+        SceneManager.LoadScene(2);
+    }
+
+    public void SwitchScene3()
+    {
+        SceneManager.LoadScene(3);
+    }
+
+    public void SwitchScene4()
+    {
+        SceneManager.LoadScene(4);
+    }
+
 }
